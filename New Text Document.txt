@@ -1,0 +1,9 @@
+# How to print lists separately
+
+fruits = "grapes","oranges"
+
+My_foods = ["popcorn","rice","kale",fruits, "beans"]
+print(My_foods)
+
+for x in My_foods:
+    print(x)
